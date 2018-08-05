@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">KBCpractice</string>
+    <string name="correct_message">Correct Answer.....!</string>
+    <string name="wrong_message">Wrong Answer.....!</string>
+    <string name="btntext_submitanswer">Submit Answer</string>
+    <string name="btntext_nextquestion">Next Question</string>
+    <string name="nulltext"></string>
+
+
+
+    <!--All Questions And Options-->
+    <string name="question_text"> Who is the first Governor General of Pakistan?</string>
+
+    <string name="option_1">M.Ali Jinnah</string>
+    <string name="option_2">Liaqat Ali Khan</string>
+    <string name="option_3">Ayub Khan</string>
+    <string name="option_4">Iskandar Mirza</string>
+
+    <string name="right_answer">M.Ali Jinnah</string>
+
+
+    <string name="question_text2"> In which year did Pakistan win the Cricket World Cup?</string>
+
+    <string name="option2_1">1975</string>
+    <string name="option2_2">1987</string>
+    <string name="option2_3">1992</string>
+    <string name="option2_4">1996</string>
+
+    <string name="right_answer2">1992</string>
+
+    <string name="question_text3">Where was General Pervez Musharraf born?</string>
+
+    <string name="option3_1">Lahore</string>
+    <string name="option3_2">Karachi</string>
+    <string name="option3_3">Delhi</string>
+    <string name="option3_4">Quetta</string>
+
+    <string name="right_answer3">Delhi</string>
+
+    <!---->
+    <string name="question_text4"> When did Pakistan win Olympic gold medal in Hockey for the first time?</string>
+
+    <string name="option4_1">1948</string>
+    <string name="option4_2">1952</string>
+    <string name="option4_3">1960</string>
+    <string name="option4_4">1964</string>
+
+    <string name="right_answer4">1960</string>
+
+
+    <string name="question_text5">Who designed Pakistan’s national flag?</string>
+
+    <string name="option5_1">Fatima Jinnah</string>
+    <string name="option5_2">Ameer-ud-Din Khidwai</string>
+    <string name="option5_3">Wali Khan</string>
+    <string name="option5_4">Tikka Khan</string>
+
+    <string name="right_answer5">Ameer-ud-Din Khidwai</string>
+
+
+
+
+
+</resources>
